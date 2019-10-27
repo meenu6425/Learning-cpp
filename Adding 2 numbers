@@ -9,5 +9,6 @@ int main()
    cin >> a >> b;
  
    c = a + b;
+   //Printing the sum of the two numbers
    cout <<"Sum of the numbers: " << c << endl;
 }
